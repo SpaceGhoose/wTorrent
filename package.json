@@ -1,0 +1,15 @@
+{
+  "name": "torrentdownloader",
+  "version": "1.0.0",
+  "description": "a node.js torrent downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.8.2",
+    "webtorrent-hybrid": "^4.0.3"
+  }
+}
